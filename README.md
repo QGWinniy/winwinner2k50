@@ -1,7 +1,3 @@
-<audio controls>
-  <source src="https://example.com/audiofile.mp3" type="audio/mpeg">
-  Ваш браузер не поддерживает воспроизведение аудио.
-</audio>
 <!DOCTYPE html>
 <html lang="en">
 
