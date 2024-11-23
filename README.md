@@ -1,5 +1,6 @@
 <audio controls>
-  <source src="https://github.com/winwinner2k50/winwinner2k50/raw/refs/heads/main/megadeth-holy-wars.mp4" type="audio/mpeg">
+  <source src="https://example.com/audiofile.mp3" type="audio/mpeg">
+  Ваш браузер не поддерживает воспроизведение аудио.
 </audio>
 <!DOCTYPE html>
 <html lang="en">
